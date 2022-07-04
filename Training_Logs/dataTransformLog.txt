@@ -1,0 +1,16 @@
+2022-06-21/11:52:25		 wafer_16012020_051629.csv: File Transformed successfully!!
+2022-06-21/11:52:26		 wafer_21012020_080913.csv: File Transformed successfully!!
+2022-06-21/11:57:51		 wafer_16012020_051629.csv: File Transformed successfully!!
+2022-06-21/11:57:52		 wafer_21012020_080913.csv: File Transformed successfully!!
+2022-06-21/12:06:47		 wafer_16012020_051629.csv: File Transformed successfully!!
+2022-06-21/12:06:48		 wafer_21012020_080913.csv: File Transformed successfully!!
+2022-06-21/12:10:23		 wafer_16012020_051629.csv: File Transformed successfully!!
+2022-06-21/12:10:25		 wafer_21012020_080913.csv: File Transformed successfully!!
+2022-06-21/12:12:33		 wafer_16012020_051629.csv: File Transformed successfully!!
+2022-06-21/12:12:34		 wafer_21012020_080913.csv: File Transformed successfully!!
+2022-06-21/12:17:01		 wafer_16012020_051629.csv: File Transformed successfully!!
+2022-06-21/12:17:05		 wafer_21012020_080913.csv: File Transformed successfully!!
+2022-06-21/12:19:20		 wafer_16012020_051629.csv: File Transformed successfully!!
+2022-06-21/12:19:21		 wafer_21012020_080913.csv: File Transformed successfully!!
+2022-06-21/12:25:46		Data Transformation failed because:: Can only use .str accessor with string values!
+2022-06-21/12:34:45		Data Transformation failed because:: Can only use .str accessor with string values!
