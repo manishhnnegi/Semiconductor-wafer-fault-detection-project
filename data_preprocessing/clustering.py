@@ -18,9 +18,7 @@ class KMeansClustering:
                                 Output: A picture saved to the directory
                                 On Failure: Raise Exception
 
-                                Written By: iNeuron Intelligence
-                                Version: 1.0
-                                Revisions: None
+                           
 
                         """
         self.logger_object.log(self.file_object, 'Entered the elbow_plot method of the KMeansClustering class')
@@ -55,9 +53,6 @@ class KMeansClustering:
                                         Output: A datframe with cluster column
                                         On Failure: Raise Exception
 
-                                        Written By: iNeuron Intelligence
-                                        Version: 1.0
-                                        Revisions: None
 
                                 """
         self.logger_object.log(self.file_object, 'Entered the create_clusters method of the KMeansClustering class')
